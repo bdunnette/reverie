@@ -1,6 +1,7 @@
 <?php get_header(); ?>
 
 <!-- Row for main content area -->
+	<?php get_sidebar(); ?>
 	<div class="small-12 large-9 columns" role="main">
 	
 	<?php /* Start loop */ ?>
@@ -22,6 +23,5 @@
 	<?php endwhile; // End the loop ?>
 
 	</div>
-	<?php get_sidebar(); ?>
 		
 <?php get_footer(); ?>
