@@ -72,13 +72,5 @@
 	<!-- End of Top-Bar -->
 </div>
 
-<header class="row" role="banner">
-	<div class="small-12 columns">
-		<h1><a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('name'); ?>"><?php bloginfo('name'); ?></a></h1>
-		<h4 class="subheader"><?php bloginfo('description'); ?></h4>
-		<hr/>
-	</div>
-</header>
-
 <!-- Start the main container -->
 <section class="container row" role="document">

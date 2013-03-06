@@ -14,6 +14,8 @@
 
 /* Start to customize Reverie */
 
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,700,600);
+
 // add some extra style to row to beautify custom background image
 header.row,
 .container.row,
@@ -92,4 +94,28 @@ input.prefix.button {
 // adjust search button on sideba
 #sidebar input.prefix.button {
 	line-height: 0.7;
+}
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+.entry-title {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+	font-size: 1.8em;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+
+h3 {
+	font-size: 1.4em;
 }
