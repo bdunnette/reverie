@@ -4,3 +4,26 @@
 // doc page. We tried to name them to where they'd make sense just by reading them.
 // Go to http://foundation.zurb.com/docs/ to find what you need.
 
+/* Set primary and secondary colors to UMN standards */
+$primary-color: #7a0019;
+$secondary-color: #ffcc33;
+
+/* Background color for the top bar */
+$topbar-bg: #7a0019;
+
+/* Style the top bar dropdown elements */
+$topbar-dropdown-bg: #7a0019;
+$topbar-dropdown-toggle-alpha: 0.8;
+
+/* Paragraph styles */
+$paragraph-font-size: .8em;
+$paragraph-line-height: 1.4;
+
+/* Header Styles */
+$header-font-family: 'Titillium Web', sans-serif;
+$h1-font-size: 1.8em;
+$h2-font-size: 1.6em;
+$h3-font-size: 1.4em;
+$h4-font-size: 1.2em;
+$h5-font-size: 1.1em;
+$h6-font-size: 1em;
