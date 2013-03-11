@@ -375,8 +375,8 @@ table {
 /* Set primary and secondary colors to UMN standards */
 /* Background color for the top bar */
 /* Style the top bar dropdown elements */
-/* Paragraph styles */
 /* Header Styles */
+/* Paragraph styles */
 *,
 *:before,
 *:after {
@@ -3029,13 +3029,13 @@ form.custom .custom.disabled {
   width: 100%;
   height: auto;
   display: block;
-  background: #7a0019;
+  background: #5b0013;
   font-size: 16px;
   margin: 0;
 }
 .top-bar-section .divider {
-  border-bottom: solid 1px #ad0023;
-  border-top: solid 1px #47000f;
+  border-bottom: solid 1px #8e001e;
+  border-top: solid 1px #280008;
   clear: both;
   height: 1px;
   width: 100%;
@@ -3047,10 +3047,10 @@ form.custom .custom.disabled {
   color: white;
   font-size: 0.8125em;
   font-weight: bold;
-  background: #7a0019;
+  background: #5b0013;
 }
 .top-bar-section ul li > a:hover {
-  background: #6b0016;
+  background: #4c0010;
 }
 .top-bar-section ul li > a.button {
   background: #7a0019;
@@ -3078,7 +3078,7 @@ form.custom .custom.disabled {
   background: #970b0e;
 }
 .top-bar-section ul li.active a {
-  background: #6b0016;
+  background: #4c0010;
 }
 .top-bar-section .has-form {
   padding: 15px;
@@ -3092,7 +3092,7 @@ form.custom .custom.disabled {
   width: 0;
   height: 0;
   border: solid 5px;
-  border-color: transparent transparent transparent rgba(255, 255, 255, 0.8);
+  border-color: transparent transparent transparent rgba(255, 255, 255, 0.5);
   margin-right: 15px;
   margin-top: -4.5px;
   position: absolute;
@@ -3219,7 +3219,7 @@ form.custom .custom.disabled {
     width: 0;
     height: 0;
     border: solid 5px;
-    border-color: rgba(255, 255, 255, 0.8) transparent transparent transparent;
+    border-color: rgba(255, 255, 255, 0.5) transparent transparent transparent;
     margin-top: -2.5px;
   }
   .top-bar-section .has-dropdown.moved {
